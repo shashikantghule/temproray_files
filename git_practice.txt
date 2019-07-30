@@ -1,0 +1,4 @@
+window trigger: '//div[@class='tve_p_lb_content tve-tl-anim tl-anim-zoom_in bSe cnt tve-leads-triggered']'
+
+
+https://github.com/shashikantghule/temproray_files.git
